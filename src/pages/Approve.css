@@ -1,0 +1,88 @@
+.approve {
+    width: 100%;
+    height: 67vmax;
+    /* background:linear-gradient(rgb(255, 225, 55), rgb(250, 231, 125));   */
+    background-size: cover;
+    background-position: center;
+    background-image: url("https://wuttichaiteacher.online/wp-content/uploads/2020/06/02.jpg");
+}
+.tableAP{
+    width: 60%;
+    margin-left: 22%;
+    margin-top: 1%;
+    border-top-left-radius: 15px;
+    border-top-right-radius: 15px;
+    border-width: 15px;
+    box-shadow: 0 0 6px rgb(166, 159, 255);
+}
+.text-endAP{
+    
+    margin-top: 4%;
+    margin-left: 22%;
+}
+.input{
+  height: 1.5em;
+  width: 15em;
+  border-radius: 15px;
+  border-width: 15px;
+  border:white;
+  box-shadow: 0 0 6px rgb(166, 159, 255);
+  outline: none;
+  padding:10px;
+  font-size: 20px;
+}
+.titleAP{
+    margin-left: 22%;
+    font-size: 50px;
+    font-family: sans-serif;
+}
+.buttons{
+    width: 60px;
+    height: 20px;
+    border-radius: 5px;
+    background-color: dodgerblue;
+}
+.texts{
+    font-family: sans-serif;
+    font-weight: bold;
+    background-color: darkgreen;
+    font-size: 16px;
+    border-radius: 3px;
+    
+}
+.pic{
+    border-radius: 15px;
+    box-shadow: 0 0 6px rgb(166, 159, 255);
+}
+.pics{
+    border-radius: 15px;
+    box-shadow: 0 0 6px rgb(166, 159, 255);
+    margin-left: 10px;
+    margin-bottom: 8px;
+}
+.textss{
+    font-family: sans-serif;
+    font-weight: bold;
+    background-color:darkred;
+    font-size: 16px;
+    border-radius: 3px;
+    
+}
+.buttona{
+    height: 2em;
+  width: 6em;
+  border-radius: 15px;
+  background:linear-gradient(rgb(166, 159, 255), rgb(250, 231, 125));
+  border: none;
+  transition: all .2s ease-in-out;
+  font-weight: bold;
+}
+.Ac{
+    color: rgb(255, 255, 255);
+}
+.TD{
+    border-radius: 6px;
+    background-color: limegreen;
+    width: 50px;
+    font-weight: bold;
+}
